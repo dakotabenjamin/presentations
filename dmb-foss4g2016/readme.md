@@ -1,1 +1,1 @@
-https://opendronemap.github.io/presentations/foss4gna2016/
+https://dakotabenjamin.github.io/presentations/dmb-foss4g2016
